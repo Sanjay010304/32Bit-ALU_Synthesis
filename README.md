@@ -36,11 +36,11 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
-
+![Screenshot 2024-11-16 112556](https://github.com/user-attachments/assets/f628fcf7-377c-4e9f-a774-fdbe3eb0da1c)
 #### Area report:
-
+![Screenshot 2024-11-16 112714](https://github.com/user-attachments/assets/d31764bb-f1f4-4fd4-91ab-ca27bb6b22a6)
 #### Power Report:
-
+![Screenshot 2024-11-16 112650](https://github.com/user-attachments/assets/255428a0-5b92-491b-9d11-306cd84d895d)
 #### Result: 
 
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
